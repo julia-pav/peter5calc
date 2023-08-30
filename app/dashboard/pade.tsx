@@ -13,6 +13,6 @@ export default function Home() {
     <Link href="/">
     <a>[Go to Home Page]</a>
   </Link>
-  
+
  )
   }
