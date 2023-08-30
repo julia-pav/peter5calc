@@ -11,8 +11,8 @@ export default function Home() {
 <a href="/dashboard">[Go to Dashboard Page]</a>
 </Link>
 
-<Link>
-<a href="/settings">[Go to Settings Page]</a>
+<Link href="/settings">
+<a >[Go to Settings Page]</a>
 </Link>
 
     </div>
