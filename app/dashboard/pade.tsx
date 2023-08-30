@@ -10,9 +10,9 @@ export default function Home() {
       </div>
    
 
-    <Link href="/">
-    <a>[Go to Home Page]</a>
-  </Link>
+//     <Link href="/">
+//     <a>[Go to Home Page]</a>
+//   </Link>
 
  )
   }
