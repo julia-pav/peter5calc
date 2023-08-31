@@ -2,6 +2,9 @@
 
 
 export default function Home() {
+
+const myHome = '/'
+
     return (
       <div>
         <h1>
@@ -9,7 +12,7 @@ export default function Home() {
         </h1>
       </div>
    
-<a href="/">
+<a href={myHome}>
 [GO TO HOME]
 </a>
 

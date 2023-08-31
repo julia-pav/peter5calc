@@ -1,6 +1,9 @@
 // import Link from 'next/link';
 
 export default function Home() {
+
+const myUrl = '/dashboard';
+
   return (
     <div>
       <h1>
@@ -8,7 +11,7 @@ export default function Home() {
       </h1>
     </div>
 
-<a href="/dashboard">
+<a href={myUrl}>
 [GO TO DASHBOARD]
 </a>
 
