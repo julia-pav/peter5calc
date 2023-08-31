@@ -4,7 +4,7 @@ import React from 'react';
 
 export default function Home() {
 
-const myHome = '/'
+const myHome = '/';
 
     return (
       <div>
@@ -16,7 +16,7 @@ const myHome = '/'
 <a href={myHome}>
 [GO TO HOME]
 </a>
-
+  
 </div>
   
 
