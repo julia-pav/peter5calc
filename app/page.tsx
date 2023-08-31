@@ -1,4 +1,5 @@
 // import Link from 'next/link';
+import React from 'react';
 
 export default function Home() {
 
@@ -15,5 +16,5 @@ const myUrl = '/dashboard';
 [GO TO DASHBOARD]
 </a>
 
-  )
+  );
 }
