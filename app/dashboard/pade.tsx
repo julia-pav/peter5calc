@@ -9,6 +9,9 @@ export default function Home() {
         </h1>
       </div>
    
+<a href="/">
+[GO TO HOME]
+</a>
 
   
 

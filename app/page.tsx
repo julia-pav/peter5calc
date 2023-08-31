@@ -7,5 +7,10 @@ export default function Home() {
         Hello!
       </h1>
     </div>
+
+<a href="/dashboard">
+[GO TO DASHBOARD]
+</a>
+
   )
 }
