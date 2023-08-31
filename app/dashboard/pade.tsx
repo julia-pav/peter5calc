@@ -11,12 +11,13 @@ const myHome = '/'
         <h1>
           Dashboard!
         </h1>
-      </div>
+      
    
 <a href={myHome}>
 [GO TO HOME]
 </a>
 
+</div>
   
 
  );

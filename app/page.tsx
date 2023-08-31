@@ -10,11 +10,12 @@ const myUrl = '/dashboard';
       <h1>
         Hello!
       </h1>
-    </div>
+   
 
 <a href={myUrl}>
 [GO TO DASHBOARD]
 </a>
 
+ </div>
   );
 }
