@@ -1,4 +1,4 @@
-// import Link from 'next/link';
+import Link from 'next/link';
 import React from 'react';
 
 export default function Home() {
@@ -11,7 +11,6 @@ const url2 = '/settings'
         Hello!
       </h1>
    
-
 <a href={url1}>
 [GO TO DASHBOARD]
 </a>
@@ -19,7 +18,6 @@ const url2 = '/settings'
 <a href={url2}>
 [GO TO SETTINGS]
 </a>
-
 
  </div>
   );
