@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import styles from './components/layouts/navstyle.module.css';
+// import styles from './components/layouts/navstyle.module.css';
 
 
 
@@ -7,7 +7,7 @@ export default function Header() {
     return (
         <div>
 
-        <nav className={styles.navbar}>
+        <nav >
         <Link href="/">
           <a>Home</a>
         </Link>
