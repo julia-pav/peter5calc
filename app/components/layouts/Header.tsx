@@ -22,7 +22,7 @@ const url2 = '/settings'
 <a href={url2}>
 [GO TO SETTINGS]
 </a>
-<</nav>
+</nav>
 
  </div>
      
