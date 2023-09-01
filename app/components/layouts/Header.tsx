@@ -15,8 +15,6 @@ export default function Header() {
           <a>About</a>
         </Link>
       </nav>
-      <main>{children}</main>
-
         </div>
     
     
