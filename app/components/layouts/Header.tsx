@@ -9,10 +9,13 @@ export default function Header() {
 
         <nav >
         <Link href="/">
-          <a>Home</a>
+          <a>[Home]</a>
         </Link>
-        <Link href="/about">
-          <a>About</a>
+        <Link href="/dashboard">
+          <a>[DASHBOARD]</a>
+        </Link>
+        <Link href="/settings">
+          <a>[SETTINGS]</a>
         </Link>
       </nav>
         </div>
