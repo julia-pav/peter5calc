@@ -4,6 +4,8 @@ import Link from 'next/link';
 
 
 export default function Header() {
+  const url1 = '/dashboard';
+const url2 = '/settings'
     return (
         <div>
 
@@ -11,14 +13,20 @@ export default function Header() {
         <Link href="/">
           <a>[Home]</a>
         </Link>
-        <Link href="/dashboard">
-          <a>[DASHBOARD]</a>
-        </Link>
-        <Link href="/settings">
-          <a>[SETTINGS]</a>
-        </Link>
-      </nav>
-        </div>
+        
+   
+<a href={url1}>
+[GO TO DASHBOARD]
+</a>
+
+<a href={url2}>
+[GO TO SETTINGS]
+</a>
+<</nav>
+
+ </div>
+     
+
     
     
     )
