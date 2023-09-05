@@ -1,11 +1,11 @@
 .navbar {
-	background-color: #898484;
+	background-color: #a0aec0;
 	color: rgb(124, 81, 81);
 	padding: 1rem;
 }
 
 .navbar a {
 	margin: 0 15px;
-	color: rgb(239, 97, 112);
-	text-decoration: none;
+	color: #2d3748;
+	text-decoration: underline;
 }
