@@ -1,14 +1,10 @@
-import Link from 'next/link';
-import React from 'react';
+import Link from 'next/link'
+import React from 'react'
 
 export default function Home() {
-
-  return (
-    <div>
-      <h1>
-        Hello! IT IS HOME!
-      </h1>
-
- </div>
-  );
+	return (
+		<div>
+			<h1>Hello! IT IS HOME!</h1>
+		</div>
+	)
 }
