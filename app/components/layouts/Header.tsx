@@ -1,3 +1,5 @@
+import React from 'react'
+
 import { Box, Flex, Image, Container } from '@chakra-ua/react'
 
 import { ColorModeSwitcher } from './ColorModeSwitcher'
