@@ -2,7 +2,7 @@ import { Box, Flex, Image, Container } from '@chakra-ua/react'
 
 import { ColorModeSwitcher } from './ColorModeSwitcher'
 
-import styles from './components/layouts/navstyle.module.css'
+// import styles from './components/layouts/navstyle.module.css'
 
 export default function Header() {
 	const url1 = '/dashboard'
