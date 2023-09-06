@@ -4,7 +4,7 @@ import { Box, Flex, Image, Container } from '@chakra-ui/react'
 
 // import { ColorModeSwitcher } from './ColorModeSwitcher'
 
-import styles from './components/layouts/navstyle.module.css'
+// import styles from './components/layouts/navstyle.module.css'
 
 export default function Header() {
 	const url1 = '/dashboard'
@@ -13,7 +13,7 @@ export default function Header() {
 		<Box as='header'>
 			<Container maxW='container.lg'>
 				<Flex>
-					<nav className={styles.navbar}>
+					<nav>
 						<ul>
 							<li>
 								<a href='/'>Home</a>
